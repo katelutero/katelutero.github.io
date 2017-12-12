@@ -2486,13 +2486,13 @@
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
 		color: rgba(255, 255, 255, 0.5);
-		height: 50%;
+		height: 100%;
 		left: 0;
 		padding: 8em 4em;
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 17%;
+		width: 35%;
 	}
 
 		#header > * {

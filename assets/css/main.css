@@ -2489,7 +2489,7 @@
 		height: 100%;
 		left: 0;
 		padding: 8em 4em;
-		position: fixed;
+		position: relative;
 		text-align: center;
 		top: 0;
 		width: 35%;

@@ -2957,7 +2957,7 @@
 				bottom: auto;
 				left: auto;
 				padding: 4em 4em 6em 4em;
-				position: relative;
+				position: fixed;
 				text-align: center;
 				width: 100%;
 			}
